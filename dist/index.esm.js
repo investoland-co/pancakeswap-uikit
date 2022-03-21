@@ -3117,12 +3117,12 @@ var socials = [
     {
         label: "Discord",
         icon: "DiscordIcon",
-        href: "https://twitter.com/pancakeswap",
+        href: "https://discord.com/invite/crbeYyReN4",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pancakeswap",
+        href: "https://twitter.com/investoland",
     },
 ];
 var MENU_HEIGHT = 64;
